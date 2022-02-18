@@ -1,0 +1,3 @@
+include ':qqlogin'
+include ':app'
+rootProject.name = "QQDemo"
